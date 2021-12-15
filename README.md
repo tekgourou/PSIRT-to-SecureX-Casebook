@@ -25,7 +25,7 @@ This workflow fetches Critical Impact Security Advisories from the last week fro
 
 ![](screenshots/import-workflow.png)
 
-2. Import the [workflow](https://raw.githubusercontent.com/tekgourou/sxo-workflows/main/ciscoSecurityAdvisoryCriticalImpact__definition_workflow_01THBITJJ5Y5Z3KDeVU2ZxTVrpG3rGJAuYO/definition_workflow_01THBITJJ5Y5Z3KDeVU2ZxTVrpG3rGJAuYO.json) by copy pasting the JSON in to SecureX orchestration **IMPORT** pane:
+2. Import the [workflow](https://raw.githubusercontent.com/tekgourou/sxo-workflows/main/PSIRT-Casebook.json) by copy pasting the JSON in to SecureX orchestration **IMPORT** pane:
 
 ![](screenshots/copy-paste.png)
 

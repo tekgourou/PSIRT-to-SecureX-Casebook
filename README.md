@@ -1,4 +1,4 @@
-# Cisco Security Advisory (Critical Impact) to SecureX Casebook and Webex 
+# Cisco Security Advisory (Critical Impact) to SecureX Casebook and Webex
 
 This workflow fetches Critical Impact Security Advisories from the last week from Cisco PSIRT API every hour.  If there are any new advisories, or if an existing advisory is updated, the table is updated, a SecureX Casebook is created and optionally a Webex notification is sent. It is very important to stay up to date with these advisory updates, to minimize the chance of a cyber attack to your organization.
  
@@ -25,7 +25,7 @@ This workflow fetches Critical Impact Security Advisories from the last week fro
 
 ![](screenshots/import-workflow.png)
 
-2. Import the [workflow](https://raw.githubusercontent.com/tekgourou/sxo-workflows/main/ciscoSecurityAdvisoryCriticalImpact__definition_workflow_01THBITJJ5Y5Z3KDeVU2ZxTVrpG3rGJAuYO/definition_workflow_01THBITJJ5Y5Z3KDeVU2ZxTVrpG3rGJAuYO.json) by copy pasting the JSON in to SecureX orchestration **IMPORT** pane:
+2. Import the [workflow](https://raw.githubusercontent.com/tekgourou/sxo-workflows/main/PSIRT-Casebook.json) by copy pasting the JSON in to SecureX orchestration **IMPORT** pane:
 
 ![](screenshots/copy-paste.png)
 
